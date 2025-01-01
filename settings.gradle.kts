@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "TrackBars"
 include(":app")
+include(":core")
+include(":feature")
